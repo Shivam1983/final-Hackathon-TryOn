@@ -51,7 +51,7 @@ npm install
 4. Obtain RapidAPI Key: Sign up for an account on RapidAPI and acquire your API key.
    Rapid API URL :  https://rapidapi.com/DataToBiz/api/virtual-try-on2 
 
-6. Configure Environment Variables: Create a .env file in the project's root directory and add your RapidAPI key.
+6. Configure Environment Variables: Add Your API key Here (https://github.com/Shivam1983/final-Hackathon-TryOn/blob/main/src/components/getdemo/demo.jsx)
 
 plaintext
 
