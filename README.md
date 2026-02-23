@@ -48,9 +48,10 @@ Install Dependencies: Use npm to install project dependencies.
 npm install
 
 
-4. Obtain RapidAPI Key: Sign up for an account on RapidAPI andacquire your API key.
+4. Obtain RapidAPI Key: Sign up for an account on RapidAPI and acquire your API key.
+   Rapid API URL :  https://rapidapi.com/DataToBiz/api/virtual-try-on2 
 
-5. Configure Environment Variables: Create a .env file in the project's root directory and add your RapidAPI key.
+6. Configure Environment Variables: Create a .env file in the project's root directory and add your RapidAPI key.
 
 plaintext
 
